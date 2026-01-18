@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+package main;
+
+message Message{
+     optional string name =1 [default ="gopher"];
+     optional int32 age =2 [default=10];
+}
+
