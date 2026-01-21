@@ -14,7 +14,8 @@ require (
 
 require (
 	github.com/gogo/protobuf v1.3.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
+	golang.org/x/sys v0.40.0 // indirect
 	golang.org/x/text v0.32.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251222181119-0a764e51fe1b // indirect
 )
